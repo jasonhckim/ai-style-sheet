@@ -1,0 +1,5 @@
+google-cloud-functions
+google-cloud-storage
+PyMuPDF
+Pillow
+python-dotenv
