@@ -33,4 +33,3 @@ def main(request):
         publisher.publish(topic_path, json.dumps(message).encode("utf-8"))
 
     return "✅ PDF parsed and pushed to Pub/Sub", 200
-
